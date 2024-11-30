@@ -2,7 +2,7 @@
 
 ## Has The Internet Taken Over Me? : A Youtube Comment Analysis Project
 
-## Project Overview
+## Project & Main Motivation Overview
 
 The inspiration for this project stems from a phrase I occasionally use when reflecting on my digital habits: **"the internet has taken over me."** This project aims to explore the validity of this statement by analyzing my YouTube activity over the years. As someone who does not use social media much but considers themself as a good YouTube user, I will focus on my YouTube data from 2016 to 2024. The goal is to uncover patterns and trends in my interaction with the platform, with putting a particular emphasis on the evolution of the language and style of my comments.
 
