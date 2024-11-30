@@ -1,6 +1,6 @@
 # DSA-210 Fall 2024 Term Project
 
-## HAS THE INTERNET TAKEN OVER ME? : A YOUTUBE COMMENT ANALYSIS PROJECT
+## Has The Internet Taken Over Me? : A Youtube Comment Analysis Project
 
 ## Project Overview
 
