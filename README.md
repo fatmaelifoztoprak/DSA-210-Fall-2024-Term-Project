@@ -27,7 +27,7 @@ Ultimately, this project seeks to answer the question: **"Has YouTube shaped me 
 **My Secondary Goals:**
 
 * Reflect on how my digital presence and behavior on YouTube may align with broader personality changes over the years.
-* Determine whether a tangible connection exists between my comments and the hypothesis that "the internet has taken over me."
+* Determine whether a tangible connection exists between my comments and the hypothesis that **"the internet has taken over me."**
 
 ## Why I am Focusing on Comments?
 
