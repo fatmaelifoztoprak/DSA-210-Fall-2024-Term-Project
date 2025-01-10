@@ -97,7 +97,7 @@ While video history offers insights into viewing preferences, comments provide a
 * 2017-2018: Anime, League of Legends, minecraft, cultural videos.
 * 2019-2020: General gaming content,minecraft.
 * 2020-2022: Among Us, PUBG, Korean culture, different kind of games, minecraft.
-* 2022-2024: Game developers videos, gaming videos, minecraft.
+* 2022-2024: Game developers videos and their games (feign, feather party etc.) , gaming videos, minecraft.
   
 **6-Insights:**
 * While specific word patterns didn’t reveal strong connections to personal growth, the overall analysis highlighted linguistic development, evolving interests, and subtle internet influences on personality.
