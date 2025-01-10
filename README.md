@@ -45,7 +45,7 @@ While video history offers insights into viewing preferences, comments provide a
 
 **Tools and Libraries**
 * **Programming Languages:** Python (primary)
-* **Libraries:** I will be using needed libraries for data manipulation, data visualization, emoji analysis etc. (pandas, NumPy, Plotly, emoji etc.)
+* **Libraries:** I will be using needed libraries for data manipulation, data visualization, emoji analysis etc. (pandas, NumPy, Jupiter NoteBook etc.)
 
 
 **Analysis Pipeline:**
