@@ -2,6 +2,12 @@
 
 ## Has The Internet Taken Over Me? : A Youtube Comment Analysis Project
 
+
+## To See My Findings You Can Watch My Video
+
+https://drive.google.com/file/d/1wwVNLW7JTr5SxMoYXafco1DyqL7etE2-/view?usp=sharing
+* You can also find the general outcomes below
+
 ## Project & Main Motivation Overview
 
 The inspiration for this project stems from a phrase I occasionally use when reflecting on my digital habits: **"the internet has taken over me."** This project aims to explore the validity of this statement by analyzing my YouTube activity over the years. As someone who does not use social media much but considers themself as a good YouTube user, I will focus on my YouTube data from 2016 to 2024. The goal is to uncover patterns and trends in my interaction with the platform, with putting a particular emphasis on the evolution of the language and style of my comments.
@@ -75,3 +81,23 @@ While video history offers insights into viewing preferences, comments provide a
 * Ensuring meaningful connections between my comments and viewing history to validate the hypothesis.
 * Addressing biases in data, such as inconsistencies in my commenting frequency or gaps in the dataset.
 
+## My Outcomes: ##
+
+**1-Word Usage:** Most frequent words were functional (e.g., "I," "you," "and") rather than topic-specific, which limited the expected insights.
+
+**2-Language Evolution:** Over time, comments evolved from casual/slang-like ("i dunno") to more refined and mature language.
+
+**3-Emoji Trends:** Earlier comments used descriptive words for emotions (e.g., "random"), while later comments adopted emojis (e.g., 😊) for clearer emotional expression.
+
+**4-Language Preferences:** Comment language (English, Turkish, occasionally Russian) reflected the type of content I engaged with during different years.
+
+**5-Content Trends:**
+* My interests shifted over time:
+* 2016-2017: Experiment videos, Barbie games.
+* 2017-2018: Anime, League of Legends, minecraft, cultural videos.
+* 2019-2020: General gaming content,minecraft.
+* 2020-2022: Among Us, PUBG, Korean culture, different kind of games, minecraft.
+* 2022-2024: Game developers videos, gaming videos, minecraft.
+  
+**6-Insights:**
+* While specific word patterns didn’t reveal strong connections to personal growth, the overall analysis highlighted linguistic development, evolving interests, and subtle internet influences on personality.
