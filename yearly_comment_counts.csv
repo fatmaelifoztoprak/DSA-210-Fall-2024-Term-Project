@@ -1,10 +1,3 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import calendar
-"# Necessary Imports\n",
-    "* Necessary imports are made"
-
-
 year,total_comments
 2016,24
 2017,165
